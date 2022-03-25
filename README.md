@@ -12,4 +12,4 @@ Each line in the file represents one image and contains 64 comma-separated integ
 - Integer data: 64 values (0..16) representing an 8x8 bitmap image of a number
 - Targets: the digits 0..9
 
-
+*Data provided by from Dr. Gregory Wolffe*
