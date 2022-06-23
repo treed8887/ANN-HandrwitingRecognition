@@ -1,4 +1,4 @@
-# ANN-HandrwitingRecognition
+# ANN-HandrwitingRecognition (work-in-progress)
 
 ## Specification
 The goal is to create a neural network capable of recognizing handwritten digits. Training data consists of digits written in different people’s handwriting. Modular code will be written that implements the concept of perceptrons and their connections in a network, feeds forward the inputs, calculates the output function, calculates error, backpropagates error, and adjusts weights appropriately. Will train the neural network using the attached training data, then validating with validation set.
